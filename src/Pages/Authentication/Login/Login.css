@@ -1,0 +1,11 @@
+.input {
+    margin-block-end: 1rem;
+}
+
+.auth-form input {
+    color: #fff !important;
+}
+
+.auth-form label {
+    color: #fff !important;
+}

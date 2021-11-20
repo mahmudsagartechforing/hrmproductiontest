@@ -1,0 +1,10 @@
+.css-cvhtoe-MuiButtonBase-root-MuiListItemButton-root:hover span{
+    font-weight: 500 !important;
+    color: #182a59;
+}
+.css-cvhtoe-MuiButtonBase-root-MuiListItemButton-root:hover svg{
+    font-size: 1.5rem !important;
+}
+.active .MuiListItemButton-root{
+    background-color: rgba(0, 0, 0, 0.04);
+}
